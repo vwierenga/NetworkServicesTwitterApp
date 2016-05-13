@@ -1,7 +1,9 @@
-package com.example.school.networkservicestwitterapp;
+package com.example.school.networkservicestwitterapp.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.school.networkservicestwitterapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
